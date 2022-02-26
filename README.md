@@ -1,4 +1,6 @@
-Code-in-Place-CS106A
+Code-in-Place-CS106A 
+
+Note: first line of code ever written 
 
 Programming interest stems from the integration of Computer Science and Biology (Bioinformatics). 
 
