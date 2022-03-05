@@ -1,4 +1,4 @@
-# Code-in-Place-CS106A 
+# Code-in-Place-CS106A (https://codeinplace.stanford.edu/)
 
 ## Note: first line of code ever written 
 
