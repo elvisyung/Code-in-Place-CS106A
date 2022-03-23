@@ -9,5 +9,7 @@ Created a simple program that enables the read of FASTA files which strips the f
 Started off simple by creating a program that reads FASTA files DNA-seq and transcribes it into RNA-seq. This program strips the first line and replaces T's with
 U's, indicating DNA transcription to RNA. 
 
+Project Video Link: https://youtu.be/wSU9YEszAkU
+
 In the future, further develop of this code would be adding code to translate RNA into protein. This would mean codons would be generated which corresponds to a 
 specific amino acid. 
